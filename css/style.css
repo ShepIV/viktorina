@@ -1,0 +1,182 @@
+body{
+    background: url("../img/bg.png") no-repeat;
+    background-size: 100%;
+    padding-bottom: 10%
+}
+#unblock1{
+    display: block;
+}
+#unblock2{
+    display: none;
+}
+#unblock3{
+    display: none;
+}
+#unblock4{
+    display: none;
+}
+#unblock5{
+    display: none;
+}
+#unblock6{
+    display: none;
+}
+.inviz{
+
+    /*margin: auto;*/
+    margin-top: 15%;
+    background-color: rgba(255,255,255, 0.3);
+    border-radius: 25px;
+    padding-bottom: 5%;
+}
+.inviz1{
+    /*margin-top: 5%;*/
+    /*background-color: rgba(255,255,255, 0);*/
+    border-radius: 25px;
+    /*padding-bottom: 5%;*/
+}
+.question_numder{
+    margin-top: 5%;
+    color: white;
+    opacity: 0.5;
+}
+.question{
+    color: white;
+    font-size: 120%;
+    font-weight: bold;
+}
+.img_footboll{
+    max-width: 100%;
+    margin: auto;
+    opacity: 1;
+    text-align: center;
+}
+.img_footboll1{
+    /*background-color: white;*/
+    padding-top: 10%;
+    max-width: 100%;
+    margin: auto;
+    opacity: 1;
+
+}
+.buttons{
+    margin-bottom: 20%;
+}
+.button{
+    /*padding-left: 20px;*/
+    /*max-width: 40%;*/
+    margin-top: 10%;
+    background-color: white;
+}
+.button_green{
+    width: 70%;
+    height: 40%;
+    background-size: 100%;
+    border-radius: 35px;
+    background: #3de65a; /* For browsers that do not support gradients */
+    background: linear-gradient(green, white);
+    border: none;
+    border-color: #3de65a;
+    font-size: 200%;
+    font-weight: bold;
+    margin-top: 10%;
+}.button_green1{
+    width: 70%;
+    height: 40%;
+    background-size: 100%;
+    border-radius: 35px;
+    background: #3de65a; /* For browsers that do not support gradients */
+    background: linear-gradient(green, white);
+    border: none;
+    border-color: #3de65a;
+    font-size: 200%;
+    font-weight: bold;
+    margin-top: 25%;
+}
+.button_form{
+    margin: auto;
+}
+#button1{
+
+}
+/*.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {*/
+
+    /*background-color: #2F3E48;*/
+    /*color:#FFF;*/
+    /*border-color: #31347B;*/
+/*}*/
+/*.bh {*/
+    /*width: 50.3%;*/
+    /*height: 9.2%;*/
+    /*background-color: green*/
+/*}*/
+
+.iphone_text{
+    padding-top: 20%;
+    color: white;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+
+/*!*bootstrap*!*/
+
+/*.btn-sample {*/
+    /*color: #000000;*/
+    /*background-color: #ffffff;*/
+    /*border-color: #fafafa;*/
+    /*border-radius: 4px;*/
+/*}*/
+
+/*.btn-sample:focus,*/
+/*.btn-sample.focus {*/
+    /*color: #000000;*/
+    /*background-color: #42489e;*/
+    /*border-color: #42489e;*/
+/*}*/
+/*.btn-sample:hover {*/
+    /*color: #000000;*/
+    /*background-color: #42489e;*/
+    /*border-color: #ffffff;*/
+/*}*/
+/*.btn-sample:active,*/
+/*.btn-sample.active,*/
+/*.open > .dropdown-toggle.btn-sample {*/
+    /*color: #000000;*/
+    /*background-color: #42489e;*/
+    /*border-color: #ffffff;*/
+/*}*/
+/*.btn-sample:active:hover,*/
+/*.btn-sample.active:hover,*/
+/*.open > .dropdown-toggle.btn-sample:hover,*/
+/*.btn-sample:active:focus,*/
+/*.btn-sample.active:focus,*/
+/*.open > .dropdown-toggle.btn-sample:focus,*/
+/*.btn-sample:active.focus,*/
+/*.btn-sample.active.focus,*/
+/*.open > .dropdown-toggle.btn-sample.focus {*/
+    /*color: #000000;*/
+    /*background-color: #ffffff;*/
+    /*border-color: #42489e;*/
+/*}*/
+/*.btn-sample:active,*/
+/*.btn-sample.active,*/
+/*.open > .dropdown-toggle.btn-sample {*/
+    /*background-image: none;*/
+/*}*/
+/*.btn-sample.disabled:hover,*/
+/*.btn-sample[disabled]:hover,*/
+/*fieldset[disabled] .btn-sample:hover,*/
+/*.btn-sample.disabled:focus,*/
+/*.btn-sample[disabled]:focus,*/
+/*fieldset[disabled] .btn-sample:focus,*/
+/*.btn-sample.disabled.focus,*/
+/*.btn-sample[disabled].focus,*/
+/*fieldset[disabled] .btn-sample.focus {*/
+    /*background-color: #ffffff;*/
+    /*border-color: #fafafa;*/
+/*}*/
+/*.btn-sample .badge {*/
+    /*color: #ffffff;*/
+    /*background-color: #000000;*/
+/*}*/
